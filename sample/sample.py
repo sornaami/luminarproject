@@ -1,0 +1,3 @@
+#Display “My Name Is James” as “My**Name**Is**James”...
+name1=input("enter your name")
+print("My","**","Name","**","is","**",name1)
